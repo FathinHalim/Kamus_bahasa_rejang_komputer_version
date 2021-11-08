@@ -1,2 +1,2 @@
-Repository Kamus Bahasa Rejang
+Repository Kamus Bahasa Rejang versi Komputer
 have nice day :)
